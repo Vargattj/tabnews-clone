@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Next js!!</h1>
+    return <h1>Tabnewsss!</h1>
 }
 
 export default Home;
